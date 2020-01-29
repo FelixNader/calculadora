@@ -1,0 +1,10 @@
+Iterar salarios-personal()
+  montoapagar=
+  mientras montoapagar > 0:
+    Si lodisponible >= montoapagar:
+       alcanza=int(salario/salariopersonal[])
+    		si alcanza >= 1:
+    			'pegar desglose en matriz cash empleados'
+    			desglose.append(alcanza[emp][denom][cant])
+          'quitar el metalico de matriz efectivo disponible'
+          'actualizar montoapagar'
